@@ -1,1 +1,0 @@
-print("ciao b1")
